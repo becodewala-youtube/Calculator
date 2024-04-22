@@ -2,7 +2,7 @@
 ## Live Demo Link🔗
 
 
-[https://restaurant-becodewala.netlify.app/](https://calculator-becodewala.netlify.app/)
+https://calculator-becodewala.netlify.app/
 
 
 ## Click on below image to watch tutorial👇
